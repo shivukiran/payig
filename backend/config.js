@@ -1,4 +1,4 @@
 //backend/config.js
 module.exports = {
-	JWT_SECRET: "shivu"
+	JWT_SECRET: "yourSecret"
 }
